@@ -1,2 +1,2 @@
-joblib
-scikit-learn
+plotly==4.14.3
+streamlit==1.18.0
